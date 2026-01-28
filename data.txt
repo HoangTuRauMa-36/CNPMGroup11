@@ -1,0 +1,15 @@
+9786040123|Lap trinh C++ Can ban|Pham Van At|CNTT|2019|350|A1|5
+9786040999|De Men phieu luu ky|To Hoai|Van hoc|2020|150|B2|10
+9781234567|Dai Viet su ky toan thu|Ngo Si Lien|Lich su|2015|1200|C3|2
+9780001112|Harry Potter va Hon da Phu thuy|J.K. Rowling|Tieu thuyet|2018|400|B1|7
+9785556667|Dac Nhan Tam|Dale Carnegie|Ky nang song|2021|300|D1|8
+9788889990|Kinh te vi mo|Nguyen Van A|Kinh te|2022|500|E2|4
+1112223334|Tu dien Anh Viet|Vien ngon ngu hoc|Tu dien|2010|2000|F5|3
+9998887776|Mat Biec|Nguyen Nhat Anh|Van hoc|2017|250|B3|6
+5554443332|Giai tich 1|Bo Giao Duc|Giao trinh|2018|200|A2|15
+1231231231|Sherlock Holmes Toan tap|Arthur Conan Doyle|Trinh tham|2016|800|B4|5
+4564564564|Nha Gia Kim|Paulo Coelho|Tieu thuyet|2014|220|B5|9
+7897897897|Lich su Van minh The gioi|Will Durant|Lich su|2005|1500|C1|2
+3213213213|Cau truc du lieu va Giai thuat|Le Minh Hoang|CNTT|2010|300|A3|8
+1472583691|Doraemon Tap 1|Fujiko F Fujio|Truyen tranh|1996|100|K1|20
+16000|Piano|Pho|General|2022|100|A2|4
